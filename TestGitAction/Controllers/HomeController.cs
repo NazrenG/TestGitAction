@@ -15,6 +15,7 @@ namespace TestGitAction.Controllers
 
         public IActionResult Index()
         {
+            var name2 = "Nezrin";
             return View();
         }
 
